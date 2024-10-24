@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://fibijite.github.io/sitemap/sitemap_index.fibijite
+Sitemap: https://fibijite.github.io/Uxy/sitemap_index.fibijite
+Sitemap: https://fibijite.github.io/jKe/sitemap_index.fibijite
+Sitemap: https://fibijite.github.io/acY/sitemap_index.fibijite
+Sitemap: https://fibijite.github.io/XZv/sitemap_index.fibijite
+Sitemap: https://fibijite.github.io/Hvk/sitemap_index.fibijite
+Sitemap: https://fibijite.github.io/hTu/sitemap_index.fibijite
+Sitemap: https://fibijite.github.io/fQx/sitemap_index.fibijite
+Sitemap: https://fibijite.github.io/xXa/sitemap_index.fibijite
+Sitemap: https://fibijite.github.io/IDR/sitemap_index.fibijite
+Sitemap: https://fibijite.github.io/gxZ/sitemap_index.fibijite
+Sitemap: https://fibijite.github.io/BEh/sitemap_index.fibijite
+Sitemap: https://fibijite.github.io/NXj/sitemap_index.fibijite
+Sitemap: https://fibijite.github.io/jtF/sitemap_index.fibijite
+Sitemap: https://fibijite.github.io/icM/sitemap_index.fibijite
+Sitemap: https://fibijite.github.io/DYm/sitemap_index.fibijite
+Sitemap: https://fibijite.github.io/tSl/sitemap_index.fibijite
+Sitemap: https://fibijite.github.io/bmf/sitemap_index.fibijite
+Sitemap: https://fibijite.github.io/QvL/sitemap_index.fibijite
+Sitemap: https://fibijite.github.io/GHh/sitemap_index.fibijite
+Sitemap: https://fibijite.github.io/nIL/sitemap_index.fibijite
